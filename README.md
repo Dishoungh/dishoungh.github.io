@@ -38,7 +38,14 @@ I have some experience designing CPUs for RISC-V and MIPS using HDL languages. F
 
 ### VLSI
 
-As part of my Master's degree, I
+As part of my Master's degree, I used Cadence tools such as `Genus` to perform physical design steps such as:
+- Synthesis
+- Floorplanning
+- Powerplanning
+- Placement
+- Clock Tree Synthesis
+- Routing
+- Signoff
 
 ### <ins>Languages</ins>
 
