@@ -34,9 +34,9 @@ I also have experience programming for:
 
 ### <ins>CPU Design</ins>
 
-I have some experience designing CPUs for RISC-V and MIPS using HDL languages. For [one of my personal projects](https://github.com/Dishoungh/cpu), I am incorporating a 5-stage pipeline processor using the [RISC-V ISA](https://drive.google.com/file/d/1uviu1nH-tScFfgrovvFCrj7Omv8tFtkp/view).
+I have some experience designing CPUs for `RISC-V` and `MIPS` using HDL languages. For [one of my personal projects](https://github.com/Dishoungh/cpu), I am incorporating a **5-stage pipeline processor** using the [RISC-V ISA](https://drive.google.com/file/d/1uviu1nH-tScFfgrovvFCrj7Omv8tFtkp/view).
 
-### VLSI
+### <ins>VLSI</ins>
 
 As part of my Master's degree, I used Cadence tools such as `Genus` to perform physical design steps such as:
 - Synthesis
